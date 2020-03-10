@@ -8,4 +8,5 @@
 
 ### Project Part2
 > + Use XGBoost with feature selection to build a model for Named Entity Disambiguation, applying TF-IDF and other NLP methods.
+> + Train the model in Train.py and test the accuracy with test.py.
 > + Check the Jupyter file inside to see the specification for part 2.
