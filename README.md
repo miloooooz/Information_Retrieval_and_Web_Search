@@ -1,6 +1,5 @@
 # Information_Retrieval_and_Web_Search
 ## TF-IDF index construction, query split computation, named entity disambiguation / named entity linking
-============================
 ### Project Part1
 > Calculating TF-IDF for tokens and entities in the documents.
 > Split queries into different combinations of tokens and entities.
